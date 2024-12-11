@@ -1,2 +1,2 @@
 # My-Shop
-created a server running on local host using Nodejs and React
+created a shop and fetched data from Api with the help of Nodejs and React
